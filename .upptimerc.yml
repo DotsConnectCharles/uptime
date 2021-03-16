@@ -7,9 +7,11 @@ sites:
   - name: Dots Connect
     method: HEAD
     url: https://www.dotsconnect.be
+    icon: https://www.dotsconnect.be/favicon.ico
   - name: Sporting
     method: HEAD
     url: https://sporting.be
+    icon: https://www.sporting.be/favicon.ico
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
