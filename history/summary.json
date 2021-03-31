@@ -5,18 +5,16 @@
     "icon": "https://www.dotsconnect.be/favicon.ico",
     "slug": "dots-connect",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
-    "time": 1408,
-    "timeDay": 241,
-    "timeWeek": 336,
-    "timeMonth": 1408,
-    "timeYear": 1408,
-    "dailyMinutesDown": {
-      "2021-03-16": 20
-    }
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1362,
+    "timeDay": 545,
+    "timeWeek": 356,
+    "timeMonth": 1362,
+    "timeYear": 1362,
+    "dailyMinutesDown": {}
   }
 ]
