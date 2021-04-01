@@ -8,6 +8,10 @@ sites:
     method: HEAD
     url: https://www.dotsconnect.be
     icon: https://www.dotsconnect.be/favicon.ico
+  - name: Copcotravel
+    method: HEAD
+    url: https://www.copcotravel.be
+    icon: https://www.copcotravel.be/favicon.ico    
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
