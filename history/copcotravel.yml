@@ -1,7 +1,7 @@
 url: https://www.copcotravel.be
-status: up
-code: 200
-responseTime: 3100
-lastUpdated: 2023-03-15T23:06:02.463Z
+status: down
+code: 503
+responseTime: 374
+lastUpdated: 2023-03-16T07:30:21.361Z
 startTime: Thu Apr 01 2021 10:18:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
